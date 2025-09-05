@@ -5,16 +5,32 @@
 
 # Hey there! 👋 I'm Faizan
 
-I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about building web applications and learning new technologies. Currently exploring cloud computing with AWS.
+I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about building web applications and learning new technologies. Currently exploring DevOps.
 
 - 🐳 Docker & Kubernetes – containerization and orchestration
 - ☁️ Cloud Platforms (AWS/GCP/Azure) – deploy and scale apps
 - ⚙️ CI/CD Pipelines – automation with GitHub Actions/Jenkins/GitLab CI
 - 🛠️ Infrastructure as Code (Terraform/Pulumi) – manage infra declaratively
 
-## 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,docker,aws,git" />
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,nodejs,tailwind,git" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Supabase-3FCF75?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Problem%20Solving-943be7?style=flat-square&logo=checklist&logoColor=white" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
+  <img src="https://img.shields.io/badge/-Next.js%20Developer-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js Developer" />
+  <img src="https://img.shields.io/badge/-Mar%202024%20-%20Feb%202025-FFA500?style=flat-square" alt="Experience Period" />
 </p>
 
 ## 🚀 Projects
