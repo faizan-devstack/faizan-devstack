@@ -11,10 +11,25 @@ I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about bui
 - ☁️ Cloud Platforms (AWS/GCP/Azure) – deploy and scale apps
 - ⚙️ CI/CD Pipelines – automation with GitHub Actions/Jenkins/GitLab CI
 - 🛠️ Infrastructure as Code (Terraform/Pulumi) – manage infra declaratively
-## 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,nodejs,tailwind,mongodb,postman,vercel,git,github,supabase,openai" />
-</p>
+
+## 🛠️ My Skills
+
+| Skill | Description |
+|-------|-------------|
+| <img src="https://skillicons.dev/icons?i=html" width="40" /> | **HTML5**: Semantic markup for building modern web structures. |
+| <img src="https://skillicons.dev/icons?i=css" width="40" /> | **CSS3**: Styling web pages with animations, flexbox, and grid layouts. |
+| <img src="https://skillicons.dev/icons?i=typescript" width="40" /> | **TypeScript**: Typed JavaScript for scalable and maintainable code. |
+| <img src="https://skillicons.dev/icons?i=react" width="40" /> | **React**: Building dynamic user interfaces with component-based architecture. |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> | **Next.js**: Full-stack React framework for server-side rendering and static sites. |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> | **Node.js**: Server-side JavaScript runtime for scalable backend development. |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> | **Tailwind CSS**: Utility-first CSS framework for rapid UI development. |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> | **MongoDB**: NoSQL database for flexible, scalable data storage. |
+| <img src="https://skillicons.dev/icons?i=postman" width="40" /> | **Postman**: API testing and development tool for streamlined workflows. |
+| <img src="https://skillicons.dev/icons?i=vercel" width="40" /> | **Vercel**: Platform for deploying and managing web applications with ease. |
+| <img src="https://skillicons.dev/icons?i=git" width="40" /> | **Git**: Version control system for collaborative development. |
+| <img src="https://skillicons.dev/icons?i=github" width="40" /> | **GitHub**: Platform for hosting, sharing, and collaborating on code. |
+| <img src="https://skillicons.dev/icons?i=supabase" width="40" /> | **Supabase**: Open-source Firebase alternative for real-time databases and auth. |
+| <img src="https://skillicons.dev/icons?i=openai" width="40" /> | **OpenAI**: Leveraging AI models for innovative applications and automation. |
 
 ## 🚀 Projects
 - **[Portfolio Website](https://github.com/Faizan/portfolio)**: A personal portfolio built with React and Tailwind CSS. ⭐ 50 | 🍴 10
