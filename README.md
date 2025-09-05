@@ -29,7 +29,7 @@ I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about bui
 | <img src="https://skillicons.dev/icons?i=git" width="40" /> | **Git**: Version control system for collaborative development. |
 | <img src="https://skillicons.dev/icons?i=github" width="40" /> | **GitHub**: Platform for hosting, sharing, and collaborating on code. |
 | <img src="https://skillicons.dev/icons?i=supabase" width="40" /> | **Supabase**: Open-source Firebase alternative for real-time databases and auth. |
-| <img src="https://skillicons.dev/icons?i=openai" width="40" /> | **OpenAI**: Leveraging AI models for innovative applications and automation. |
+| <img src="https://skillicons.dev/icons?i=ai" width="40" /> | **OpenAI**: Leveraging AI models for innovative applications and automation. |
 
 ## 🚀 Projects
 - **[Portfolio Website](https://github.com/Faizan/portfolio)**: A personal portfolio built with React and Tailwind CSS. ⭐ 50 | 🍴 10
