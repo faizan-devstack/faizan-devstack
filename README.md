@@ -33,9 +33,12 @@ I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about bui
 | <img src="https://skillicons.dev/icons?i=supabase" width="40" /> | **Supabase**: Open-source Firebase alternative for real-time databases and auth. |
 <img src="https://skillicons.dev/icons?i=ai" width="40" /> | **OpenAI**: Leveraging AI models for innovative applications and automation. |
 
-## 🚀 Projects
-- **[Portfolio Website](https://github.com/Faizan/portfolio)**: A personal portfolio built with React and Tailwind CSS. ⭐ 50 | 🍴 10
-- **[Task Manager](https://github.com/Faizan/task-manager)**: A task management app built with Node.js and MongoDB. ⭐ 30 | 🍴 5
+## 🚀 My Projects
+
+| Project | Details |
+|---------|---------|
+| <img src="/images/portfolio.png" width="150" alt="Portfolio Preview" style="border-radius: 8px;" /><br>**Portfolio** | **Description**: My portfolio and OpenAI chatbot built with advanced UI components in Next.js.<br>**Technologies**: <br><img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,openai" /><br>**Live Demo**: [View Site](https://portfolio-muhammad-faizan.vercel.app/)<br>**Repo**: [GitHub](https://github.com/Faizan/portfolio) |
+| <img src="/images/p10.png" width="150" alt="Transcripter Preview" style="border-radius: 8px;" /><br>**Transcripter** | **Description**: Effortlessly transcribe, summarize, translate, and generate creative content with unparalleled ease - all achievable with just one click.<br>**Technologies**: <br><img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase,openai" /><br>**Live Demo**: [View Site](https://www.transcripter.co/blogs)<br>**Repo**: [GitHub](https://github.com/Faizan/transcripter) |
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -50,8 +53,6 @@ I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about bui
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/Faizan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Faizan_dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://Faizanportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-943be7?style=flat-square&logo=link&logoColor=white" /></a>
 </p>
 
 <p align="center">
