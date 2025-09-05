@@ -1,15 +1,16 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50" />
 </p>
 
 # Hey there! 👋 I'm Faizan
 
-I'm a Software Developer from Toronto, Canada. Passionate about building web applications and learning new technologies. Currently exploring cloud computing with AWS.
+I'm a Full Stack Nextjs Developer from Islamabad, Pakistan. Passionate about building web applications and learning new technologies. Currently exploring cloud computing with AWS.
 
-- 🌱 Learning: Docker, TypeScript
-- 🎯 Goals: Contribute to open-source projects
-- 🎨 Hobbies: Painting, playing chess
+- 🐳 Docker & Kubernetes – containerization and orchestration
+- ☁️ Cloud Platforms (AWS/GCP/Azure) – deploy and scale apps
+- ⚙️ CI/CD Pipelines – automation with GitHub Actions/Jenkins/GitLab CI
+- 🛠️ Infrastructure as Code (Terraform/Pulumi) – manage infra declaratively
 
 ## 🛠️ Skills
 <p>
