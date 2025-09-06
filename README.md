@@ -102,31 +102,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284203-41b4c8c8-8171-4c1f-8391-f6d85b63f43c.gif" width="400">
 </div>
 
-## <div align="center">📊 GitHub Analytics</div>
+## GitHub Stats 🚀
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA8&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizan&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Faizan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 ## <div align="center">🤝 Let's Connect</div>
@@ -144,7 +136,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizan&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=faizan-devstack&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
