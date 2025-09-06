@@ -117,7 +117,7 @@
 **🔗 Links:**  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-muhammad-faizan.vercel.app/)
 
-<br><br>
+<br>
 
 ### 📝 Transcripter
 *AI-powered transcription, summarization & translation platform*
@@ -138,7 +138,7 @@
 
 <br>
 
-## <div align="center">📊 GitHub Stats</div>
+# <div align="center">📊 GitHub Stats</div>
 
 <br>
 
@@ -146,15 +146,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6B6B&text_color=4ECDC4&icon_color=FF6B6B&border_color=45B7D1&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=FF6B6B&text_color=4ECDC4&custom_title=Most%20Used%20Languages&border_color=45B7D1&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&currStreakLabel=4ECDC4&sideNums=4ECDC4&sideLabels=4ECDC4&dates=45B7D1&border=45B7D1" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=false&border_color=45B7D1" />
 
