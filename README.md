@@ -6,11 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Faizan;Full+Stack+Developer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Building+Web+Apps;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+<br>
+
 ## <div align="center">🚀 About Me</div>
+
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -21,11 +27,17 @@
   Currently diving deep into the world of DevOps to expand my technical horizons.
 </p>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
+<br>
+
 ### <div align="center">🌟 Currently Exploring DevOps</div>
+
+<br>
 
 <div align="center">
 
@@ -38,41 +50,63 @@
 
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 </div>
 
+<br>
+
 ## <div align="center">🛠️ Tech Arsenal</div>
+
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
+
+<br>
 
 <div align="center">
 
 ### Frontend Technologies
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark" />
 
+<br><br>
+
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,postman&theme=dark" />
 
+<br><br>
+
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
+
+<br><br>
 
 ### AI & Innovation
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284175-acc7d32c-9d83-4ba6-9825-dda4ec559a5f.gif" width="500">
 </div>
 
+<br>
+
 ## <div align="center">🎯 Featured Projects</div>
+
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284194-bafe047a-c476-4559-9b57-a06e54b32231.gif" width="300">
 </div>
+
+<br>
 
 <div align="center">
 
@@ -85,7 +119,7 @@
 **🔗 Links:**  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-muhammad-faizan.vercel.app/)
 
----
+<br><br>
 
 ### 📝 Transcripter
 *AI-powered transcription, summarization & translation platform*
@@ -98,28 +132,37 @@
 
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284203-41b4c8c8-8171-4c1f-8391-f6d85b63f43c.gif" width="400">
 </div>
 
-## GitHub Stats 🚀
-
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA8&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
+## <div align="center">📊 GitHub Stats</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA8&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
 </div>
+
+<br><br>
 
 ## <div align="center">🤝 Let's Connect</div>
 
