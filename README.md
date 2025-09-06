@@ -22,11 +22,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+<br>
+
 <p align="center">
   I'm a passionate Full Stack Developer from Islamabad, Pakistan, dedicated to creating innovative web solutions.<br>
   Currently diving deep into the world of DevOps to expand my technical horizons.
 </p
   
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
