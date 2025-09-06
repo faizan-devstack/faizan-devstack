@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Next.js%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Faizan;Full-Stack+Next.js+Developer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Building+Web+Apps;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Faizan;Full+Stack+Developer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Building+Web+Apps;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 </div>
 
 ## <div align="center">🛠️ Tech Arsenal</div>
@@ -132,10 +132,6 @@
 </div>
 
 ## <div align="center">🤝 Let's Connect</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-</div>
 
 <div align="center">
 
