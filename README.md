@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Faizan;Full+Stack+Developer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Building+Web+Apps;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-<br><br>
+<br>
 
-# <div align="center">🚀 About Me</div>
+## <div align="center">🚀 About Me</div>
 
 <br>
 
@@ -22,18 +22,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-<br>
-
 <p align="center">
   I'm a passionate Full Stack Developer from Islamabad, Pakistan, dedicated to creating innovative web solutions.<br>
   Currently diving deep into the world of DevOps to expand my technical horizons.
-</p
-  
+</p>
+
 <br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
+
+<br>
 
 ### <div align="center">🌟 Currently Exploring DevOps</div>
 
