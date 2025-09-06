@@ -142,23 +142,15 @@
 
 ## <div align="center">📊 GitHub Stats</div>
 
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
+<img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=4ECDC4&text_color=FF6B6B&icon_color=4ECDC4&border_color=45B7D1&border_radius=10" alt="github-stats" />
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=4ECDC4&text_color=FF6B6B&custom_title=Most%20Used%20Languages&border_color=45B7D1&border_radius=10&" alt="top-langs" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA8&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=4ECDC4&fire=FF6B6B&currStreakNum=4ECDC4&currStreakLabel=FF6B6B&sideNums=FF6B6B&sideLabels=4ECDC4&dates=45B7D1&border=45B7D1" alt="github-streak" />
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=FF6347&currStreakLabel=7D5EA9&sideNums=7D5EA9&sideLabels=7D5EA2&dates=FF6347D6&border=7D5EA9" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=00000000&color=4ECDC4&line=45B7D1&point=FF6B6B&area=true&hide_border=false&border_color=45B7D1" />
 
 </div>
 
