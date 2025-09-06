@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Faizan;Full+Stack+Developer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Building+Web+Apps;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-<br>
+<br><br>
 
-## <div align="center">🚀 About Me</div>
+# <div align="center">🚀 About Me</div>
 
 <br>
 
@@ -50,15 +50,15 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 </div>
 
-<br>
+<br><br>
 
-## <div align="center">🛠️ Tech Arsenal</div>
+# <div align="center">🛠️ Tech Arsenal</div>
 
 <br>
 
@@ -73,17 +73,17 @@
 ### Frontend Technologies
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark" />
 
-<br><br>
+<br>
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,postman&theme=dark" />
 
-<br><br>
+<br>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
 
-<br><br>
+<br>
 
 ### AI & Innovation
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -98,7 +98,7 @@
 
 <br>
 
-## <div align="center">🎯 Featured Projects</div>
+# <div align="center">🎯 Featured Projects</div>
 
 <br>
 
