@@ -100,8 +100,6 @@
 
 # <div align="center">🎯 Featured Projects</div>
 
-<br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284194-bafe047a-c476-4559-9b57-a06e54b32231.gif" width="300">
 </div>
