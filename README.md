@@ -108,7 +108,7 @@
 
 <div align="center">
 
-### 🌐 designrift
+### designrift
 *Create stunning, accessible themes using Radix colors. Get built-in dark mode and accessibility. Set up once, customize infinitely.*
 
 **🚀 Tech Stack:**  
@@ -119,7 +119,7 @@
 
 <br>
 
-### 📝 GlanceAI
+### GlanceAI
 *Glance helps you quickly understand any Webpage with key Points, AI chat, easy summaries, and related links*
 
 **🚀 Tech Stack:**  
