@@ -24,7 +24,7 @@
 
 <p align="center">
   I'm a passionate Full Stack Developer from Islamabad, Pakistan, dedicated to creating innovative web solutions.<br>
-  Currently diving deep into the world of DevOps to expand my technical horizons.
+  Currently diving deep into the world of NestJS to expand my technical horizons.
 </p>
 
 <br>
@@ -35,19 +35,17 @@
 
 <br>
 
-### <div align="center">🌟 Currently Exploring DevOps</div>
+### <div align="center">🌟 Currently Exploring NestJS</div>
 
 <br>
 
 <div align="center">
-
 | Technology | Description |
 |:----------:|:-----------:|
-| 🐳 **Docker & Kubernetes** | Containerization and orchestration mastery |
-| ☁️ **Cloud Platforms** | AWS • GCP • Azure deployment & scaling |
-| ⚙️ **CI/CD Pipelines** | GitHub Actions • Jenkins • GitLab CI automation |
-| 🛠️ **Infrastructure as Code** | Terraform • Pulumi declarative management |
-
+| 🏗️ **NestJS Framework** | Building efficient, scalable Node.js server-side applications |
+| 📦 **Modules & Dependency Injection** | Organizing code with modular architecture and DI |
+| 🎛️ **Controllers, Services & Providers** | Handling routes, business logic, and reusable components |
+| 🔌 **Integrations & Middleware** | Connecting with databases, authentication, and custom middleware |
 </div>
 
 <br>
