@@ -108,25 +108,25 @@
 
 <div align="center">
 
-### 🌐 Portfolio Website
-*Personal portfolio with integrated OpenAI chatbot*
+### 🌐 designrift
+*Create stunning, accessible themes using Radix colors. Get built-in dark mode and accessibility. Set up once, customize infinitely.*
 
 **🚀 Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind&theme=dark" />
 
 **🔗 Links:**  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-muhammad-faizan.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.designrift.dev/)
 
 <br>
 
-### 📝 Transcripter
-*AI-powered transcription, summarization & translation platform*
+### 📝 GlanceAI
+*Glance helps you quickly understand any Webpage with key Points, AI chat, easy summaries, and related links*
 
 **🚀 Tech Stack:**  
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase&theme=dark" />
 
 **🔗 Links:**  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.transcripter.co/blogs)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.glanceai.site/)
 
 </div>
 
