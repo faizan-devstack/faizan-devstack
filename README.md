@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  I'm a passionate Full Stack Developer from Islamabad, Pakistan, dedicated to creating innovative web solutions.<br>
+  I'm a passionate Full Stack Nextjs TypeScript Developer from Islamabad, Pakistan, dedicated to creating innovative web solutions.<br>
   Currently diving deep into the world of NestJS to expand my technical horizons.
 </p>
 
