@@ -152,10 +152,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-devstack&theme=transparent&border_radius=10&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&currStreakLabel=4ECDC4&sideNums=4ECDC4&sideLabels=4ECDC4&dates=45B7D1&border=45B7D1" alt="github-streak" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);"/>
-
-<br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=false&border_color=45B7D1" />
 
 </div>
