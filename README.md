@@ -144,10 +144,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizan-devstack&theme=transparent&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6B6B&text_color=4ECDC4&icon_color=FF6B6B&border_color=45B7D1&border_radius=10" alt="github-stats" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
-
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=10&layout=compact&title_color=FF6B6B&text_color=4ECDC4&custom_title=Most%20Used%20Languages&border_color=45B7D1&border_radius=10&" alt="top-langs" style=" box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);" />
 
 <br>
