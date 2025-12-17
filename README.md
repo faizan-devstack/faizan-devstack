@@ -40,12 +40,14 @@
 <br>
 
 <div align="center">
+
 | Technology | Description |
 |:----------:|:-----------:|
 | 🏗️ **NestJS Framework** | Building efficient, scalable Node.js server-side applications |
 | 📦 **Modules & Dependency Injection** | Organizing code with modular architecture and DI |
 | 🎛️ **Controllers, Services & Providers** | Handling routes, business logic, and reusable components |
 | 🔌 **Integrations & Middleware** | Connecting with databases, authentication, and custom middleware |
+
 </div>
 
 <br>
