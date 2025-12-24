@@ -149,7 +149,7 @@
 <!-- Primary option with more parameters -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-devstack&theme=transparent&langs_count=8&layout=compact&title_color=FF6B6B&text_color=4ECDC4&custom_title=Most%20Used%20Languages&border_color=45B7D1&border_radius=10&hide_border=false&size_weight=0.5&count_weight=0.5&card_width=445" alt="Top Languages" />
 
-</div>/>
+</div>
 
 <br>
 
