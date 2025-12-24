@@ -153,9 +153,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-devstack&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=false&border_color=45B7D1" />
-
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faizan-devstack&layout=compact&theme=radical" />
 
 <br><br>
 
