@@ -138,7 +138,7 @@
 ---
 
 ### 🤖 GlanceAI
-*AI-powered browser extension that helps you quickly understand any webpage — key summaries, AI chat, and related links in seconds.*
+*AI-powered browser extension that helps you quickly understand any webpage key summaries, AI chat, and related links in seconds.*
 
 **🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase&theme=dark" />
@@ -150,7 +150,7 @@
 ---
 
 ### ✍️ Bloggen
-*AI-powered blog generation platform. Create, publish, and manage SEO-optimized content at scale with full authentication and a custom CMS.*
+*AI powered blog generation platform. Create, publish, and manage SEO optimized content at scale with full authentication and a custom CMS.*
 
 **🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,postgresql&theme=dark" />
