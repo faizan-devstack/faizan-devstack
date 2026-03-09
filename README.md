@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Next.js%20Developer&descAlignY=54&descAlign=79" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Next.js%20%7C%20TypeScript%20%7C%20React%20Developer&descAlignY=54&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋+I'm+Faizan;Full+Stack+Developer;From+Islamabad%2C+Pakistan+🇵🇰;Passionate+About+Building+Web+Apps;Currently+Exploring+DevOps+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+👋+I'm+Faizan;Full+Stack+Developer;Building+Scalable+Web+Apps+🚀;AI+Integrations+%7C+OpenAI+API;From+Islamabad%2C+Pakistan+🇵🇰" alt="Typing Animation" />
 </div>
 
 <br>
@@ -23,8 +23,7 @@
 </div>
 
 <p align="center">
-  I'm a passionate Full Stack Nextjs TypeScript Developer from Islamabad, Pakistan, dedicated to creating innovative web solutions.<br>
-  Currently diving deep into the world of NestJS to expand my technical horizons.
+  I'm a <strong>Full Stack Developer</strong> from Islamabad, Pakistan with <strong>3+ years</strong> of experience building scalable, production ready web applications. I specialize in the <strong>TypeScript · Next.js · React · Node.js</strong> ecosystem from database design to CI/CD deployment. Currently shipping full stack products at <strong>Silverthread Labs</strong> and exploring <strong>DevOps & microservices architecture</strong>.
 </p>
 
 <br>
@@ -35,18 +34,19 @@
 
 <br>
 
-### <div align="center">🌟 Currently Exploring NestJS</div>
+### <div align="center">🌟 What I'm Working On & Exploring</div>
 
 <br>
 
 <div align="center">
 
-| Technology | Description |
+| Area | Details |
 |:----------:|:-----------:|
-| 🏗️ **NestJS Framework** | Building efficient, scalable Node.js server-side applications |
-| 📦 **Modules & Dependency Injection** | Organizing code with modular architecture and DI |
-| 🎛️ **Controllers, Services & Providers** | Handling routes, business logic, and reusable components |
-| 🔌 **Integrations & Middleware** | Connecting with databases, authentication, and custom middleware |
+| ⚡ **Next.js 14/15** | SSR, SSG, App Router, Server Components, Edge Functions |
+| 🤖 **AI Integrations** | OpenAI API, automated content pipelines, AI-powered SaaS |
+| 🏗️ **NestJS & Microservices** | Scalable server-side architecture with Dependency Injection |
+| 🗄️ **Database Optimization** | PostgreSQL, Prisma ORM, query optimization, schema design |
+| 🐳 **DevOps** | Docker, GitHub Actions CI/CD, Vercel deployment pipelines |
 
 </div>
 
@@ -70,23 +70,39 @@
 
 <div align="center">
 
-### Frontend Technologies
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark" />
 
 <br>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,postman&theme=dark" />
+### UI & Animation
+<img src="https://skillicons.dev/icons?i=figma,threejs&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/ShadCN%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 
 <br>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi&theme=dark" />
 
 <br>
 
-### AI & Innovation
+### Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,prisma,redis&theme=dark" />
+
+<br>
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,postman&theme=dark" />
+
+<br>
+
+### AI & Integrations
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 </div>
 
@@ -108,25 +124,65 @@
 
 <div align="center">
 
-### designrift
-*Create stunning, accessible themes using Radix colors. Get built-in dark mode and accessibility. Set up once, customize infinitely.*
+---
 
-**🚀 Tech Stack:**  
+### 🎨 Designrift
+*Create stunning, accessible design system themes using Radix colors. Built-in dark mode, accessibility-first, set up once and customize infinitely.*
+
+**🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind&theme=dark" />
 
-**🔗 Links:**  
+**🔗 Links:**
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.designrift.dev/)
 
-<br>
+---
 
-### GlanceAI
-*Glance helps you quickly understand any Webpage with key Points, AI chat, easy summaries, and related links*
+### 🤖 GlanceAI
+*AI-powered browser extension that helps you quickly understand any webpage — key summaries, AI chat, and related links in seconds.*
 
-**🚀 Tech Stack:**  
+**🚀 Tech Stack:**
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-**🔗 Links:**  
+**🔗 Links:**
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.glanceai.site/)
+
+---
+
+### ✍️ Bloggen
+*AI-powered blog generation platform. Create, publish, and manage SEO-optimized content at scale with full authentication and a custom CMS.*
+
+**🚀 Tech Stack:**
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,postgresql&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+**🔗 Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bloggen.dev/)
+
+---
+
+### 📊 Silverthread Labs
+*Web performance analytics tool. Track Core Web Vitals, Lighthouse scores, and SEO health metrics for any website in real time.*
+
+**🚀 Tech Stack:**
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,nodejs&theme=dark" />
+
+**🔗 Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.silverthreadlabs.com/)
+
+---
+
+### 🎵 Audiotextify
+*Convert audio files to accurate text transcriptions using AI. Supports multiple languages and exports in various formats.*
+
+**🚀 Tech Stack:**
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+**🔗 Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.audiotextify.co/)
+
+---
 
 </div>
 
@@ -141,8 +197,6 @@
 # <div align="center">📊 GitHub Stats</div>
 
 <br>
-
-<div align="center">
 
 <div align="center">
 
@@ -167,7 +221,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!;Always+open+to+new+opportunities!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!;Always+open+to+new+opportunities!;Open+to+Remote+Full+Stack+Roles+🌍" />
 </div>
 
 <div align="center">
